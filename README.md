@@ -2,8 +2,7 @@
 
 a-Arts is a JS-TOOL to help you to make a beautiful arts-show-page.
 
-
-
+!["demo show"](./preview.png)
 
 ### How To Use
 

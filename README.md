@@ -15,7 +15,7 @@ git clone https://github.com/qddegtya/a-Arts.git
 ```
 
 
-**step 2 make your own content*
+**step 2 make your own content**
 
 Just edit index.html for fun!!!
 
@@ -38,5 +38,9 @@ __ ARCHER'S ARTS
 1. __: page title
 2. --: art item
 3. (http://test.com "a"): art's url & art's name
-4. [http://test.com/test.png] art's thumb
+4. [http://test.com/test.png]: art's thumb
 ```
+
+### online demo
+
+[http://xiaoa.name/arts](http://xiaoa.name/arts/)

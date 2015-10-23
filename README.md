@@ -7,7 +7,7 @@ a-Arts is a JS-TOOL to help you to make a beautiful arts-show-page.
 
 ### How To Use
 
-**step 1 git clone**
+**step1: git clone**
 
 
 ```shell
@@ -15,7 +15,7 @@ git clone https://github.com/qddegtya/a-Arts.git
 ```
 
 
-**step 2 make your own content**
+**step2: make your own content**
 
 Just edit index.html for fun!!!
 

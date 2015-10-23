@@ -4,6 +4,8 @@ a-Arts is a JS-TOOL to help you to make a beautiful arts-show-page.
 
 !["demo show"](./preview.png)
 
+Inspired from [yart](https://github.com/JoyNeop/yart)
+
 ### How To Use
 
 **step1: git clone**
@@ -40,6 +42,10 @@ __ ARCHER'S ARTS
 4. [http://test.com/test.png]: art's thumb
 ```
 
-### online demo
+### Online demo
 
 [http://xiaoa.name/arts](http://xiaoa.name/arts/)
+
+
+### License
+MIT License as included within this repository.

@@ -48,4 +48,4 @@ __ ARCHER'S ARTS
 
 
 ### License
-MIT License as included within this repository.
+MIT
